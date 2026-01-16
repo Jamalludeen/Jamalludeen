@@ -14,8 +14,8 @@ Backend Software Engineer • Application Security Enthusiast
 <p align="center">
   <img 
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="550"
-    height="300"
+    width="400"
+    height="225"
     style="object-fit: cover;"
   />
 </p>
