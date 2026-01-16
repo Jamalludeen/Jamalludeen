@@ -17,12 +17,6 @@ Backend Software Engineer • Application Security Enthusiast
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jamalludeen&theme=onedark&row=1&column=6&no-frame=true" />
-</p>
-
----
-
 ## 👋 About Me
 
 - 🔭 I’m currently working on **security and data-intensive softwares**
@@ -68,7 +62,7 @@ Backend Software Engineer • Application Security Enthusiast
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
@@ -76,15 +70,10 @@ Backend Software Engineer • Application Security Enthusiast
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamalludeen&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamalludeen&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalludeen&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamalludeen&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
