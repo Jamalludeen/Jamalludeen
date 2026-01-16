@@ -1,16 +1,103 @@
-## Hi there 👋
+<!-- ===================== HEADER BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Jamalludeen%20Karimi&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<!--
-**Jamalludeen/Jamalludeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Backend Software Engineer • Application Security Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jamalludeen&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jamalludeen&theme=onedark&row=1&column=6&no-frame=true" />
+</p>
+
+---
+
+## 👋 About Me
+
+- 🔭 I’m currently working on **security and data-intensive softwares**
+- 🌱 I’m currently learning **Advanced Backend Engineering, System Design & Scalability, Professional Application Security**
+- 👯 I’m looking to collaborate on **backend of security-focused softwares**
+- 🤝 I’m looking for help with **security-focused and data-intensive softwares**
+- 👨‍💻 All of my projects are available at  
+  👉 **https://github.com/Jamalludeen?tab=repositories**
+- 💬 Ask me about **Application Security, Secure SDLC, and Data-intensive Softwares**
+- 📫 How to reach me: **jamalghazniwal@gmail.com**
+
+---
+
+## 🔐 Security Focus Areas
+
+- 🛡️ **OWASP Top 10 Vulnerabilities**
+- 🧪 **Burp Suite (Web Application Testing)**
+- 🔑 **Secure Authentication & Authorization**
+- 🔁 **Secure Software Development Life Cycle (Secure SDLC)**
+- 🧠 **Threat Modeling & Secure Design**
+- 🔍 **API Security & Input Validation**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Jamalludeen">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:jamalghazniwal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamalludeen&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamalludeen&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalludeen&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <i>“Security is built into the system — not added later.”</i>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
