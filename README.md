@@ -19,10 +19,10 @@ Backend Software Engineer • Application Security Enthusiast
 
 ## 👋 About Me
 
-- 🔭 I’m currently working on **security and data-intensive softwares**
+- 🔭 I’m currently working on **Application Security and Data-Intensive Softwares**
 - 🌱 I’m currently learning **Advanced Backend Engineering, System Design & Scalability, Professional Application Security**
-- 👯 I’m looking to collaborate on **backend of security-focused softwares**
-- 🤝 I’m looking for help with **security-focused and data-intensive softwares**
+- 👯 I’m looking to collaborate on **Backend of Security-Focused Softwares**
+- 🤝 I’m looking for help with **Security-Focused and Data-Intensive Softwares**
 - 👨‍💻 All of my projects are available at  
   👉 **https://github.com/Jamalludeen?tab=repositories**
 - 💬 Ask me about **Application Security, Secure SDLC, and Data-intensive Softwares**
@@ -37,7 +37,7 @@ Backend Software Engineer • Application Security Enthusiast
 - 🔑 **Secure Authentication & Authorization**
 - 🔁 **Secure Software Development Life Cycle (Secure SDLC)**
 - 🧠 **Threat Modeling & Secure Design**
-- 🔍 **API Security & Input Validation**
+- 🔍 **API & Server Side Security**
 
 ---
 
@@ -46,6 +46,9 @@ Backend Software Engineer • Application Security Enthusiast
 <p align="left">
   <a href="https://github.com/Jamalludeen">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jamalludeen-karimi-5927b626b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:jamalghazniwal@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
