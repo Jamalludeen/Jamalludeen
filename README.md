@@ -20,20 +20,16 @@ Backend Software Engineer • Application Security Enthusiast
   />
 </p>
 
-
 ---
 
 ## 👋 About Me
 
-- 🔭 I’m currently working on **Application Security and Data-Intensive Softwares**
-- 🌱 I’m currently learning **Advanced Backend Engineering, System Design & Scalability, Professional Application Security**
-- 👯 I’m looking to collaborate on **Backend of Security-Focused Softwares**
-- 🤝 I’m looking for help with **Security-Focused and Data-Intensive Softwares**
-- 👨‍💻 All of my projects are available at  
-  👉 **https://github.com/Jamalludeen?tab=repositories**
-- 💬 Ask me about **Application Security, Secure SDLC, and Data-intensive Softwares**
-- 📫 How to reach me: **jamalghazniwal@gmail.com**
-
+- 🔭 I’m currently working on **application security and data-intensive applications**
+- 🌱 I’m currently learning **advanced backend engineering, system design scalability & reliability, professional application security**
+- 👯 I’m looking to collaborate on **security-focused backend projects**
+- 🤝 I’m looking for help with **secure, large-scale systems**
+- 👨‍💻 All of my projects are available at 👉 **https://github.com/Jamalludeen?tab=repositories**
+- 💬 Ask me about **application security, security testing, secure SDLC, system design and data-intensive applications**
 ---
 
 ## 🔐 Security Focus Areas
