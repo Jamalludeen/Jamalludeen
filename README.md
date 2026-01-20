@@ -25,7 +25,7 @@ Backend Software Engineer • Security Focused Softwares
 ## 👋 About Me
 
 - 🔭 I’m currently working on **application security and data-intensive applications**
-- 🌱 I’m currently learning **advanced backend engineering, system design scalability & reliability and platform engineering**
+- 🌱 I’m currently learning **advanced backend engineering, system design and platform engineering**
 - 👯 I’m looking to collaborate on **security-focused backend projects**
 - 🤝 I’m looking for help with **secure, large-scale systems**
 - 👨‍💻 All of my projects are available at 👉 **https://github.com/Jamalludeen?tab=repositories**
