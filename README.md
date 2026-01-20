@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Backend Software Engineer • Application Security Enthusiast
+Backend Software Engineer • Security Focused Softwares
 </h3>
 
 <p align="center">
@@ -25,7 +25,7 @@ Backend Software Engineer • Application Security Enthusiast
 ## 👋 About Me
 
 - 🔭 I’m currently working on **application security and data-intensive applications**
-- 🌱 I’m currently learning **advanced backend engineering, system design scalability & reliability, professional application security**
+- 🌱 I’m currently learning **advanced backend engineering, system design scalability & reliability and platform engineering**
 - 👯 I’m looking to collaborate on **security-focused backend projects**
 - 🤝 I’m looking for help with **secure, large-scale systems**
 - 👨‍💻 All of my projects are available at 👉 **https://github.com/Jamalludeen?tab=repositories**
@@ -38,7 +38,6 @@ Backend Software Engineer • Application Security Enthusiast
 - 🧪 **Burp Suite (Web Application Testing)**
 - 🔑 **Secure Authentication & Authorization**
 - 🔁 **Secure Software Development Life Cycle (Secure SDLC)**
-- 🧠 **Threat Modeling & Secure Design**
 - 🔍 **API & Server Side Security**
 
 ---
