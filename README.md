@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Backend Software Engineer • Security Focused Softwares
+AI & Backend Software Engineer
 </h3>
 
 <p align="center">
@@ -24,21 +24,25 @@ Backend Software Engineer • Security Focused Softwares
 
 ## 👋 About Me
 
-- 🔭 I’m currently working on **application security and data-intensive applications**
-- 🌱 I’m currently learning **advanced backend engineering, system design and platform engineering**
-- 👯 I’m looking to collaborate on **security-focused backend projects**
-- 🤝 I’m looking for help with **secure, large-scale systems**
-- 👨‍💻 All of my projects are available at 👉 **https://github.com/Jamalludeen?tab=repositories**
-- 💬 Ask me about **application security, security testing, secure SDLC, system design and data-intensive applications**
+- 🔭 I’m currently focused on **building AI-integrated backend systems** that optimize performance and scalability.
+- 🌱 I’m continuously learning **advanced backend engineering techniques**, **system design**, and how to integrate **AI models** into backend architectures.
+- 🤖 Passionate about developing systems that leverage AI for automation, security, and data-driven decision-making.
+- 👯 I’m open to **collaborating on projects** involving **AI-powered backend solutions**, from **natural language processing** (NLP) to **predictive analytics**.
+- 🤝 I’m particularly interested in tackling **large-scale systems** and exploring **AI-enhanced backend architecture**.
+- 👨‍💻 You can explore my repositories here 👉 **[GitHub](https://github.com/Jamalludeen?tab=repositories)**
+- 💬 Feel free to ask me about **AI integration**, **machine learning backend frameworks**, **system design**, **secure software architectures**, and **data-intensive applications**.
+
 ---
 
 ## 🔐 Security Focus Areas
 
-- 🛡️ **OWASP Top 10 Vulnerabilities**
-- 🧪 **Burp Suite (Web Application Testing)**
-- 🔑 **Secure Authentication & Authorization**
-- 🔁 **Secure Software Development Life Cycle (Secure SDLC)**
-- 🔍 **API & Server Side Security**
+As a backend engineer with a focus on AI, I emphasize the importance of security in every layer:
+
+- 🛡️ **OWASP Top 10 Vulnerabilities** – Ensuring AI systems are secure by design.
+- 🧪 **Burp Suite (Web Application Testing)** – Security testing of AI-backed APIs and web services.
+- 🔑 **Secure Authentication & Authorization** – Implementing secure access controls in AI-driven systems.
+- 🔁 **Secure Software Development Life Cycle (Secure SDLC)** – Integrating security at every phase of AI system development.
+- 🔍 **API & Server-Side Security** – Securing APIs that expose AI services and managing server-side vulnerabilities.
 
 ---
 
@@ -58,7 +62,9 @@ Backend Software Engineer • Security Focused Softwares
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
+
+I specialize in integrating AI models with robust backend architectures, focusing on high-performance systems:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -68,6 +74,9 @@ Backend Software Engineer • Security Focused Softwares
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
 </p>
 
 ---
@@ -85,7 +94,7 @@ Backend Software Engineer • Security Focused Softwares
 </p>
 
 <p align="center">
-  <i>“Security is built into the system — not added later.”</i>
+  <i>“Security and scalability are the foundation of every great AI-powered system.”</i>
 </p>
 
 <!-- ===================== FOOTER ===================== -->
