@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-AI & Backend Software Engineer
+Backend Software Engineer
 </h3>
 
 <p align="center">
