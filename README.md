@@ -30,7 +30,7 @@ Backend Software Engineer - Security & AI Focused Softwares
 - 👯 I’m open to **collaborating on projects** involving **AI-powered backend solutions**, from **natural language processing** (NLP) to **predictive analytics**.
 - 🤝 I’m particularly interested in tackling **large-scale systems** and exploring **AI-enhanced backend architecture**.
 - 👨‍💻 You can explore my repositories here 👉 **[GitHub](https://github.com/Jamalludeen?tab=repositories)**
-- 💬 Feel free to ask me about **AI integration**, **machine learning backend frameworks**, **system design**, **secure software architectures**, and **data-intensive applications**.
+- 💬 Feel free to ask me about **AI integration**, **system design**, **secure software architectures**, and **data-intensive applications**.
 
 ---
 
@@ -74,9 +74,6 @@ I specialize in integrating AI models with robust backend architectures, focusin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
 </p>
 
 ---
