@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Backend Software Engineer
+Backend Software Engineer - Security & AI Focused Softwares
 </h3>
 
 <p align="center">
