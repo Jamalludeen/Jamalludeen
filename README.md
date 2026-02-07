@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Platform Engineer · Backend Engineer
+Software Engineer
 </h3>
 
 <p align="center">
@@ -24,47 +24,46 @@ Platform Engineer · Backend Engineer
 
 ## 👋 About Me
 
-I’m a **Platform-focused Backend Engineer** who builds **reliable, scalable, and secure developer platforms**.
+I’m a **Software Engineer** focused on building **scalable, secure, and maintainable server-side systems**.
 
-- 🔭 Currently focused on **platform engineering**, **internal tooling**, and **backend systems** that improve developer productivity.
-- 🌱 Deepening my knowledge in **system design**, **distributed systems**, **cloud-native architectures**, and **API platforms**.
-- ⚙️ Passionate about building **self-service platforms**, **automation**, and **reusable backend infrastructure**.
-- 🤖 Interested in **AI-assisted platforms**, including safe AI integrations, automation pipelines, and internal developer tools.
-- 👯 Open to collaborating on **platform engineering**, **DevOps tooling**, **backend infrastructure**, and **cloud-native projects**.
-- 👨‍💻 Explore my work 👉 **[GitHub Repositories](https://github.com/Jamalludeen?tab=repositories)**
-- 💬 Ask me about **platform architecture**, **API design**, **backend scalability**, **Linux**, and **secure systems**.
-
----
-
-## 🧱 Platform Engineering Focus Areas
-
-I focus on building platforms that are **stable, observable, and secure by default**:
-
-- 🧩 **Internal Developer Platforms (IDP)** – Backend services and tooling that empower teams.
-- ⚙️ **API Platforms & Backend Infrastructure** – Designing scalable, maintainable service layers.
-- 🐧 **Linux & Server Environments** – Operating and optimizing production systems.
-- 🐳 **Containerization & Environment Standardization** – Docker-based workflows.
-- 📦 **Automation & CI/CD Concepts** – Reducing manual work through automation.
-- 📊 **Observability Mindset** – Logs, metrics, and system visibility (design-first).
-- 🔁 **Reliability & Scalability** – Systems designed for growth and failure tolerance.
+- 🔭 Currently working on **backend APIs**, **data-driven systems**, and **AI-integrated services**.
+- 🌱 Continuously improving my skills in **system design**, **database optimization**, and **backend architecture**.
+- 🤖 Interested in **AI-powered backend solutions**, including automation, intelligent APIs, and data processing.
+- 👯 Open to collaborating on **backend-heavy projects**, **REST APIs**, and **distributed systems**.
+- 🤝 I enjoy solving **real-world problems** using clean backend design and solid engineering principles.
+- 👨‍💻 Check my work 👉 **[GitHub Repositories](https://github.com/Jamalludeen?tab=repositories)**
+- 💬 Ask me about **Django**, **APIs**, **PostgreSQL**, **backend security**, and **system design**.
 
 ---
 
-## 🔐 Security & Reliability
+## 🧠 Backend Engineering Focus Areas
 
-Security and reliability are first-class concerns in every platform I build:
+My core backend interests and strengths include:
 
-- 🛡️ **OWASP Top 10 Awareness** – Secure backend and platform design.
-- 🔑 **Authentication & Authorization** – Role-based access and secure APIs.
-- 🔍 **API & Server-Side Security** – Protecting platform entry points.
-- 🔁 **Secure SDLC** – Security integrated throughout development.
-- 🧪 **Web & API Testing** – Proactive identification of weaknesses.
+- 🧩 **RESTful API Design** – Clean, scalable, and well-documented APIs.
+- 🗄️ **Database Design & Optimization** – PostgreSQL schemas, indexing, and query performance.
+- ⚙️ **Business Logic & Data Processing** – Writing reliable and testable backend logic.
+- 🔐 **Authentication & Authorization** – Secure user management and access control.
+- 🧪 **Backend Testing** – Ensuring correctness and reliability of backend systems.
+- 📈 **Scalability & Performance** – Designing systems that grow smoothly.
+
+---
+
+## 🔐 Security Awareness
+
+Security is a core part of backend development:
+
+- 🛡️ **OWASP Top 10** – Preventing common backend vulnerabilities.
+- 🔑 **Secure Authentication & Authorization** – Token-based access control.
+- 🔍 **API Security** – Protecting endpoints and sensitive data.
+- 🔁 **Secure SDLC** – Security-first backend development mindset.
+- 🧪 **Web Application Testing** – Identifying and fixing weaknesses early.
 
 ---
 
 ## 🛠️ Languages & Tools
 
-Technologies I use to build and operate platforms:
+Technologies I use to build backend systems:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -110,7 +109,7 @@ Technologies I use to build and operate platforms:
 </p>
 
 <p align="center">
-  <i>“Great platforms make the right thing the easy thing.”</i>
+  <i>“Good backend systems are invisible — until they fail.”</i>
 </p>
 
 <!-- ===================== FOOTER ===================== -->
