@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Backend Software Engineer
+Platform Engineer · Backend Engineer
 </h3>
 
 <p align="center">
@@ -24,25 +24,68 @@ Backend Software Engineer
 
 ## 👋 About Me
 
-- 🔭 I’m currently focused on **building AI-integrated backend systems** that optimize performance and scalability.
-- 🌱 I’m continuously learning **advanced backend engineering techniques**, **system design**, and how to integrate **AI models** into backend architectures.
-- 🤖 Passionate about developing systems that leverage AI for automation, security, and data-driven decision-making.
-- 👯 I’m open to **collaborating on projects** involving **AI-powered backend solutions**, from **natural language processing** (NLP) to **predictive analytics**.
-- 🤝 I’m particularly interested in tackling **large-scale systems** and exploring **AI-enhanced backend architecture**.
-- 👨‍💻 You can explore my repositories here 👉 **[GitHub](https://github.com/Jamalludeen?tab=repositories)**
-- 💬 Feel free to ask me about **AI integration**, **system design**, **secure software architectures**, and **data-intensive applications**.
+I’m a **Platform-focused Backend Engineer** who builds **reliable, scalable, and secure developer platforms**.
+
+- 🔭 Currently focused on **platform engineering**, **internal tooling**, and **backend systems** that improve developer productivity.
+- 🌱 Deepening my knowledge in **system design**, **distributed systems**, **cloud-native architectures**, and **API platforms**.
+- ⚙️ Passionate about building **self-service platforms**, **automation**, and **reusable backend infrastructure**.
+- 🤖 Interested in **AI-assisted platforms**, including safe AI integrations, automation pipelines, and internal developer tools.
+- 👯 Open to collaborating on **platform engineering**, **DevOps tooling**, **backend infrastructure**, and **cloud-native projects**.
+- 👨‍💻 Explore my work 👉 **[GitHub Repositories](https://github.com/Jamalludeen?tab=repositories)**
+- 💬 Ask me about **platform architecture**, **API design**, **backend scalability**, **Linux**, and **secure systems**.
 
 ---
 
-## 🔐 Security Focus Areas
+## 🧱 Platform Engineering Focus Areas
 
-As a backend engineer with a focus on AI, I emphasize the importance of security in every layer:
+I focus on building platforms that are **stable, observable, and secure by default**:
 
-- 🛡️ **OWASP Top 10 Vulnerabilities** – Ensuring AI systems are secure by design.
-- 🧪 **Burp Suite (Web Application Testing)** – Security testing of AI-backed APIs and web services.
-- 🔑 **Secure Authentication & Authorization** – Implementing secure access controls in AI-driven systems.
-- 🔁 **Secure Software Development Life Cycle (Secure SDLC)** – Integrating security at every phase of AI system development.
-- 🔍 **API & Server-Side Security** – Securing APIs that expose AI services and managing server-side vulnerabilities.
+- 🧩 **Internal Developer Platforms (IDP)** – Backend services and tooling that empower teams.
+- ⚙️ **API Platforms & Backend Infrastructure** – Designing scalable, maintainable service layers.
+- 🐧 **Linux & Server Environments** – Operating and optimizing production systems.
+- 🐳 **Containerization & Environment Standardization** – Docker-based workflows.
+- 📦 **Automation & CI/CD Concepts** – Reducing manual work through automation.
+- 📊 **Observability Mindset** – Logs, metrics, and system visibility (design-first).
+- 🔁 **Reliability & Scalability** – Systems designed for growth and failure tolerance.
+
+---
+
+## 🔐 Security & Reliability
+
+Security and reliability are first-class concerns in every platform I build:
+
+- 🛡️ **OWASP Top 10 Awareness** – Secure backend and platform design.
+- 🔑 **Authentication & Authorization** – Role-based access and secure APIs.
+- 🔍 **API & Server-Side Security** – Protecting platform entry points.
+- 🔁 **Secure SDLC** – Security integrated throughout development.
+- 🧪 **Web & API Testing** – Proactive identification of weaknesses.
+
+---
+
+## 🛠️ Languages & Tools
+
+Technologies I use to build and operate platforms:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamalludeen&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -62,40 +105,12 @@ As a backend engineer with a focus on AI, I emphasize the importance of security
 
 ---
 
-## 🛠️ Languages & Tools
-
-I specialize in integrating AI models with robust backend architectures, focusing on high-performance systems:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-</p>
-
-
----
-
-## 📊 GitHub Activity Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamalludeen&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
-  <i>“Security and scalability are the foundation of every great AI-powered system.”</i>
+  <i>“Great platforms make the right thing the easy thing.”</i>
 </p>
 
 <!-- ===================== FOOTER ===================== -->
