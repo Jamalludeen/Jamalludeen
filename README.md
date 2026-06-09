@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Software Engineer | Backend Engineer 
+Software Engineer | Backend Engineer | Distributed Systems
 </h3>
 
 <p align="center">
