@@ -46,17 +46,6 @@ My long-term specialization is **AI Infrastructure Engineering** — building an
 
 My current engineering focus is centered around the layers that connect applications to the underlying systems they depend on.
 
-### Systems
-
-* Linux
-* Operating Systems
-* Processes & Threads
-* Memory & Storage
-* Filesystems
-* System Calls
-* Networking Fundamentals
-* Computer Architecture
-
 ### Infrastructure
 
 * Linux Server Administration
@@ -65,7 +54,6 @@ My current engineering focus is centered around the layers that connect applicat
 * Reverse Proxies
 * Load Balancing
 * DNS & HTTP
-* TLS / HTTPS
 * SSH
 * Server Deployment
 * Infrastructure Configuration
@@ -152,22 +140,6 @@ Infrastructure Engineering
     ├── Kubernetes
     └── AI Workload Orchestration
 ```
-
----
-
-## What I’m Building Toward
-
-I’m focused on progressing from:
-
-**Software Development → Infrastructure Engineering → AI Infrastructure Engineering**
-
-My approach is practical:
-
-> Build systems. Deploy them. Break them. Diagnose them. Improve them.
-
-I’m particularly interested in projects that require understanding what happens **underneath the application layer** — from processes and networking to containers, distributed systems, and production infrastructure.
-
----
 
 ## GitHub Activity
 
