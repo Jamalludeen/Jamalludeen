@@ -1,10 +1,11 @@
-<!-- ===================== HEADER BANNER ===================== -->
+<!-- ===================== HEADER ===================== -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Jamalludeen%20Karimi&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h3 align="center">
-Software Engineer | Backend Engineer
+Infrastructure Engineer | Backend Engineer | Systems
 </h3>
 
 <p align="center">
@@ -12,75 +13,203 @@ Software Engineer | Backend Engineer
 </p>
 
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="400"
-    height="225"
-    style="object-fit: cover;"
-  />
+  <a href="https://github.com/Jamalludeen">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jamalludeen-karimi-5927b626b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I’m a **Software Engineer** focused on building **scalable, secure, and maintainable server-side systems**.
+I’m a **Software Engineer transitioning toward Infrastructure Engineering**, with a strong foundation in backend development and a growing focus on **Linux, systems, networking, containers, deployment, and distributed systems**.
 
-- 🔭 Currently working on **backend APIs**, **data-driven systems**, and **AI-integrated services**.
-- 🌱 Continuously improving my skills in **system design**, **database optimization**, and **backend architecture**.
-- 🤖 Interested in **AI-powered backend solutions**, including automation, intelligent APIs, and data processing.
-- 👯 Open to collaborating on **backend-heavy projects**, **REST APIs**, and **distributed systems**.
-- 🤝 I enjoy solving **real-world problems** using clean backend design and solid engineering principles.
-- 👨‍💻 Check my work 👉 **[GitHub Repositories](https://github.com/Jamalludeen?tab=repositories)**
-- 💬 Ask me about **Django**, **APIs**, **PostgreSQL**, **backend security**, and **system design**.
+I’m interested in understanding and building the infrastructure that makes software **reliable, scalable, observable, secure, and production-ready**.
 
----
+My long-term specialization is **AI Infrastructure Engineering** — building and operating the systems that support modern AI workloads.
 
-## 🧠 Backend Engineering Focus Areas
-
-My core backend interests and strengths include:
-
-- 🧩 **RESTful API Design** – Clean, scalable, and well-documented APIs.
-- 🗄️ **Database Design & Optimization** – PostgreSQL schemas, indexing, and query performance.
-- ⚙️ **Business Logic & Data Processing** – Writing reliable and testable backend logic.
-- 🔐 **Authentication & Authorization** – Secure user management and access control.
-- 🧪 **Backend Testing** – Ensuring correctness and reliability of backend systems.
-- 📈 **Scalability & Performance** – Designing systems that grow smoothly.
+* 🔧 Building and deploying backend services in production environments
+* 🐧 Developing strong Linux and systems knowledge
+* 🐳 Working with Docker and containerized applications
+* 🌐 Learning networking, reverse proxies, load balancing, and service communication
+* 🗄️ Working with PostgreSQL and data-intensive backend systems
+* ⚙️ Improving deployment, automation, and operational workflows
+* 📡 Studying distributed systems, scalability, reliability, and observability
+* 🤖 Moving toward infrastructure for AI/ML workloads
 
 ---
 
-## 🔐 Security Awareness
+## Infrastructure Engineering
 
-Security is a core part of backend development:
+My current engineering focus is centered around the layers that connect applications to the underlying systems they depend on.
 
-- 🛡️ **OWASP Top 10** – Preventing common backend vulnerabilities.
-- 🔑 **Secure Authentication & Authorization** – Token-based access control.
-- 🔍 **API Security** – Protecting endpoints and sensitive data.
-- 🔁 **Secure SDLC** – Security-first backend development mindset.
-- 🧪 **Web Application Testing** – Identifying and fixing weaknesses early.
+### Systems
+
+* Linux
+* Operating Systems
+* Processes & Threads
+* Memory & Storage
+* Filesystems
+* System Calls
+* Networking Fundamentals
+* Computer Architecture
+
+### Infrastructure
+
+* Linux Server Administration
+* Docker & Containerization
+* Nginx
+* Reverse Proxies
+* Load Balancing
+* DNS & HTTP
+* TLS / HTTPS
+* SSH
+* Server Deployment
+* Infrastructure Configuration
+
+### Distributed Systems
+
+* Distributed System Fundamentals
+* Service Communication
+* Failure Models
+* Replication
+* Fault Tolerance
+* Scalability
+* Consistency
+* Caching
+* Message-Based Architectures
+
+### Reliability & Operations
+
+* Monitoring
+* Logging
+* Metrics
+* Health Checks
+* Resource Management
+* Performance Analysis
+* Backup & Recovery
+* Security
+* Production Troubleshooting
 
 ---
 
-## 🛠️ Languages & Tools
+## Backend Engineering
 
-Technologies I use to build backend systems:
+My backend experience provides the application-layer foundation for my infrastructure work.
+
+* **Python / Django** — Backend services and REST APIs
+* **PostgreSQL** — Relational data modeling, indexing, and query optimization
+* **API Design** — RESTful services and service communication
+* **Authentication & Authorization** — Secure access control
+* **Database Integration** — Application/database interaction
+* **Testing** — Backend correctness and reliability
+* **Performance** — Query and application-level optimization
+
+I approach backend development with an emphasis on understanding how applications behave **at the system level**, not just at the framework level.
+
+---
+
+## AI Infrastructure — Long-Term Focus
+
+My long-term specialization is **AI Infrastructure Engineering**.
+
+Areas I’m working toward include:
+
+* AI/ML workload infrastructure
+* GPU computing
+* GPU resource management
+* Model serving
+* Inference infrastructure
+* Distributed training systems
+* Kubernetes and container orchestration
+* High-performance networking
+* Distributed storage
+* Observability for AI workloads
+* Infrastructure automation
+* Cloud infrastructure
+* Scalable inference platforms
+
+The goal is to understand the complete path from:
+
+**Hardware → Operating System → Containers → Orchestration → Services → AI Workloads**
+
+---
+
+## Security
+
+Security is treated as an infrastructure concern as well as an application concern.
+
+* Linux permissions and access control
+* SSH security
+* Network security fundamentals
+* TLS / HTTPS
+* Secure server configuration
+* Authentication and authorization
+* API security
+* OWASP fundamentals
+* Secrets management
+* Secure deployment practices
+
+---
+
+## Technology Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="42" title="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42" title="Redux"/>
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## Engineering Interests
+
+```text
+Infrastructure Engineering
+├── Linux & Systems
+├── Networking
+├── Containers
+├── Deployment & Automation
+├── Distributed Systems
+├── Reliability & Observability
+├── Security
+└── AI Infrastructure
+    ├── GPU Computing
+    ├── Model Serving
+    ├── Distributed Training
+    ├── Kubernetes
+    └── AI Workload Orchestration
+```
+
+---
+
+## What I’m Building Toward
+
+I’m focused on progressing from:
+
+**Software Development → Infrastructure Engineering → AI Infrastructure Engineering**
+
+My approach is practical:
+
+> Build systems. Deploy them. Break them. Diagnose them. Improve them.
+
+I’m particularly interested in projects that require understanding what happens **underneath the application layer** — from processes and networking to containers, distributed systems, and production infrastructure.
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamalludeen&theme=tokyonight&hide_border=true"/>
@@ -88,7 +217,7 @@ Technologies I use to build backend systems:
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/Jamalludeen">
@@ -105,14 +234,11 @@ Technologies I use to build backend systems:
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</p>
-
-<p align="center">
-  <i>“Good backend systems are invisible — until they fail.”</i>
+  <i>Building reliable systems from the infrastructure up.</i>
 </p>
 
 <!-- ===================== FOOTER ===================== -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
