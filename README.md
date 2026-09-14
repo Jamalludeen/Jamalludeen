@@ -25,11 +25,9 @@ Infrastructure Engineer | Backend Engineer | Systems
 
 ## About Me
 
-I’m a **Software Engineer transitioning toward Infrastructure Engineering**, with a strong foundation in backend development and a growing focus on **Linux, systems, networking, containers, deployment, and distributed systems**.
+I’m a **Software Engineer focusing toward Infrastructure Engineering**, with a strong foundation in backend development and a growing focus on **Linux, systems, networking, containers, deployment, and distributed systems**.
 
 I’m interested in understanding and building the infrastructure that makes software **reliable, scalable, observable, secure, and production-ready**.
-
-My long-term specialization is **AI Infrastructure Engineering** — building and operating the systems that support modern AI workloads.
 
 * 🔧 Building and deploying backend services in production environments
 * 🐧 Developing strong Linux and systems knowledge
@@ -93,7 +91,6 @@ Security is treated as an infrastructure concern as well as an application conce
 * Linux permissions and access control
 * SSH security
 * Network security fundamentals
-* TLS / HTTPS
 * Secure server configuration
 * Authentication and authorization
 * API security
@@ -121,26 +118,6 @@ Security is treated as an infrastructure concern as well as an application conce
 </p>
 
 ---
-
-## Engineering Interests
-
-```text
-Infrastructure Engineering
-├── Linux & Systems
-├── Networking
-├── Containers
-├── Deployment & Automation
-├── Distributed Systems
-├── Reliability & Observability
-├── Security
-└── AI Infrastructure
-    ├── GPU Computing
-    ├── Model Serving
-    ├── Distributed Training
-    ├── Kubernetes
-    └── AI Workload Orchestration
-```
-
 ## GitHub Activity
 
 <p align="center">
