@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-Infrastructure Engineer | Backend Engineer | Systems
+Infrastructure Engineer | Backend Engineer | Platform Engineer
 </h3>
 
 <p align="center">
