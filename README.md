@@ -19,7 +19,7 @@
 ### About
 
 Backend engineer moving toward infrastructure and platform work. I build and operate
-Python/Django services on Linux, and I care about what happens after deployment —
+backend services on Linux, and I care about what happens after deployment —
 reliability, observability, and performance under real load.
 
 Currently going deeper on containers, networking, and distributed systems, with an
