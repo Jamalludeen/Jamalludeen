@@ -25,7 +25,7 @@ I'm interested in building intelligent applications powered by modern AI models 
 
 Currently exploring LLMs, local model deployment, AI application development, and the fundamentals of machine learning and deep learning.
 
-My long-term goal is to work at the intersection of AI engineering and robotics, building intelligent systems that interact with and understand the real world.
+My long-term goal is to work at the intersection of AI engineering and building intelligent systems that interact with and understand the real world.
 
 ---
 
@@ -33,7 +33,7 @@ My long-term goal is to work at the intersection of AI engineering and robotics,
 
 | Area | Focus |
 |---|---|
-| **AI Engineering** | LLM-powered applications, prompt engineering, AI application architecture, tool calling, and intelligent agents |
+| **AI Engineering** | LLM-powered applications, AI application architecture, tool calling, and intelligent agents |
 | **Retrieval & Knowledge Systems** | Retrieval-Augmented Generation (RAG), embeddings, semantic search, and knowledge representation |
 | **Machine Learning** | Supervised learning, model fundamentals, neural networks, and model evaluation |
 | **LLM Infrastructure** | Local LLM deployment, model inference, Ollama, and AI application integration |
