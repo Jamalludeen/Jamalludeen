@@ -19,7 +19,7 @@
 
 ### About
 
-Software Engineer transitioning into AI Engineering, with a strong foundation in Python, backend development, and infrastructure.
+Software Engineer transitioning into AI Engineering, with a strong foundation in Python, backend development, system design and infrastructure.
 
 I'm interested in building intelligent applications and systems powered by modern AI models and understanding the engineering behind them, from model interaction and application architecture to inference, evaluation, and deployment.
 
