@@ -21,7 +21,7 @@
 
 Software Engineer transitioning into AI Engineering, with a strong foundation in Python, backend development, and infrastructure.
 
-I'm interested in building intelligent applications powered by modern AI models and understanding the engineering behind them, from model interaction and application architecture to inference, evaluation, and deployment.
+I'm interested in building intelligent applications and systems powered by modern AI models and understanding the engineering behind them, from model interaction and application architecture to inference, evaluation, and deployment.
 
 Currently exploring LLMs, local model deployment, AI application development, and the fundamentals of machine learning and deep learning.
 
